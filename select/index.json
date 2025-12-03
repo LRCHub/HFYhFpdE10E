@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "サイエンス",
+  "base_artist": "MIMI",
+  "createdAt": "2025-12-03T15:22:29.753455Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "プティ＊パティ∞サイエンス (オリジナル・メロディ・インスト) (ボーナストラック)",
+      "artist": "Yusuke Itagaki",
+      "has_synced": false,
+      "path": "select/01_プティ_パティ∞サイエンス_(オリジナル・メロディ・インスト)_(ボーナストラック)_Yusuke_Itagaki.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "マイペース・サイエンス",
+      "artist": "上野",
+      "has_synced": true,
+      "path": "select/02_マイペース・サイエンス_上野.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "マイペース・サイエンス (上野ソロ・バージョン)",
+      "artist": "上野",
+      "has_synced": true,
+      "path": "select/03_マイペース・サイエンス_(上野ソロ・バージョン)_上野.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "マイペース・サイエンス (山下ソロ・バージョン)",
+      "artist": "上野",
+      "has_synced": true,
+      "path": "select/04_マイペース・サイエンス_(山下ソロ・バージョン)_上野.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サイエンス (feat. 重音テト)",
+      "artist": "MIMI",
+      "has_synced": false,
+      "path": "select/pl_01_サイエンス_(feat._重音テト)_MIMI.txt"
+    }
+  ]
+}
